@@ -1,2 +1,2 @@
-# miniRT_public
-miniRT_public
+# miniRT
+miniRT for school 42
